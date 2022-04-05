@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048359646421",
+    "firebase_url": "https://android-social-media-6e5dc.firebaseio.com",
+    "project_id": "android-social-media-6e5dc",
+    "storage_bucket": "android-social-media-6e5dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048359646421:android:7d29ef0e1d89830ff75e5c",
+        "android_client_info": {
+          "package_name": "com.patriotnative.android_social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048359646421-5tsvhdf53qmdqpa77gg80g8mohv6kn3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patriotnative.android_social_media",
+            "certificate_hash": "9af80fee6a5fc16a2e4c87259f50e3e14cb80f6a"
+          }
+        },
+        {
+          "client_id": "1048359646421-jjdq9n3l6k8muif05soihpep5mpho62l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIXNZYU6l3nhkv9q8d56n93brgy5nCeEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048359646421-jjdq9n3l6k8muif05soihpep5mpho62l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
